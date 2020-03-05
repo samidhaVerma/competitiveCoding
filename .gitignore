@@ -1,3 +1,5 @@
 *.exe
 input
 output
+.vscode
+*.json

@@ -27,6 +27,17 @@ struct node* createNode(int data){
     return temp;
 }
 
+int get(int index){
+    curr = head;
+    for(int i = 0; i < index-1; i++) {
+        if(curr->next == NULL)
+            break;
+        else
+            curr = curr->next;       
+    }
+    return curr->data;
+}
+
 void addNodeAtTail(int data){
     // Time complexity: O(n)
     node* temp = createNode(data);
@@ -77,6 +88,7 @@ void addNodeAtIndex(int index, int data){
 }
 
 void deleteNodeAtHead(int val){
+    // Time complexity: O(1)
     if(head == tail){
         head == NULL;
         tail = NULL;
@@ -143,6 +155,11 @@ int main () {
     int deleteNode;
     cin >> deleteNode;
     deleteNodeValue(deleteNode);
+
+    // Getting value from the linked list
+    int getIndex;
+    cin >> getIndex;
+    cout << get(getIndex) << endl;
 
     displayList(head);
 

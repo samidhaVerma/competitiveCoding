@@ -125,7 +125,6 @@ void deleteNodeValue(int val){
 }
 
 int main () {
-
     // Initialising the linked list
     int initialSize;
     cin >> initialSize;
@@ -161,6 +160,7 @@ int main () {
     cin >> getIndex;
     cout << get(getIndex) << endl;
 
+    // Displaying the linked list
     displayList(head);
 
     return 0;

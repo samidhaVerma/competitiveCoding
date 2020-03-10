@@ -1,0 +1,20 @@
+Practice Problems
+- [x] codechef.com - TACHSTCK
+- [x] codechef.com - CIELRCPT
+- [x] codechef.com - MAXDIFF
+- [x] codechef.com - CHEFST
+- [x] codechef.com - CAKEDOOM
+- [ ] codechef.com - CLETAB
+- [ ] codechef.com - TADELIVE
+- [x] codechef.com - MANYCHEF
+- [ ] codechef.com - MMPROD
+- [ ] codechef.com - CHEFTMA
+- [x] codechef.com - STICKS
+- [ ] spoj.com - BAISED
+- [ ] spoj.com - BALIFE
+- [ ] spoj.com - GCJ101BB
+- [ ] codechef.com - FGFS
+- [ ] codechef.com - KNPSK
+- [ ] codechef.com - LEMUSIC
+- [ ] spoj.com - ARRANGE
+- [ ] spoj.com - FASHION

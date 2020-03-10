@@ -1,0 +1,12 @@
+Practice Problems
+- [x] spoj.com - JNEXT
+- [x] spoj.com - STPAR
+- [x] spoj.com - ONP
+- [ ] codechef.com - COMPILER - Need for PartialLen and TotalLen doubt (pending)
+- [ ] spoj.com - MMASS - Needs a thorough check for all cases
+- [ ] spoj.com - HISTOGRA
+- [ ] codeforces.com - D. Maximum Xor Secondary
+- [x] spoj.com - ANARC09A
+- [x] codeforces.com - C. Minimal string
+- [x] codeforces.com - B. Alternating Current
+- [ ] codeforces.com - C. Longest Regular Bracket Sequence
